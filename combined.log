@@ -84,3 +84,22 @@
 2024-07-08T13:46:14.457Z [32minfo[39m: Server is running on port =3000
 2024-07-08T13:47:25.117Z [32minfo[39m: Sql & MongoDB connection established
 2024-07-08T13:47:25.123Z [32minfo[39m: Server is running on port =3000
+2024-07-08T14:06:51.493Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-08T14:06:51.498Z [32minfo[39m: Server is running on port =3000
+2024-07-08T14:07:51.985Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-08T14:07:51.990Z [32minfo[39m: Server is running on port =3000
+2024-07-08T14:24:10.291Z [32minfo[39m: SQL Database connected and synced.
+2024-07-08T14:24:10.297Z [31merror[39m: Error syncing SQL database:
+2024-07-08T14:24:53.749Z [32minfo[39m: SQL Database connected and synced.
+2024-07-08T14:24:53.753Z [31merror[39m: Error syncing SQL database:
+2024-07-08T14:27:04.567Z [32minfo[39m: SQL Database connected and synced.
+2024-07-08T14:27:04.572Z [31merror[39m: Error syncing SQL database:
+2024-07-08T14:27:32.102Z [32minfo[39m: SQL Database connected and synced.
+2024-07-08T14:27:32.106Z [31merror[39m: Error syncing SQL database:
+2024-07-08T14:28:07.767Z [32minfo[39m: SQL Database connected and synced.
+2024-07-08T14:28:07.771Z [31merror[39m: Error syncing SQL database:
+2024-07-08T14:29:29.582Z [32minfo[39m: SQL Database connected and synced.
+2024-07-08T14:29:50.400Z [32minfo[39m: SQL Database connected and synced.
+2024-07-08T14:29:50.411Z [32minfo[39m: Server running on port 3000
+2024-07-08T14:30:26.412Z [32minfo[39m: SQL Database connected and synced.
+2024-07-08T14:30:26.442Z [32minfo[39m: Server running on port 3000

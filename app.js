@@ -37,18 +37,18 @@ app.use((err,req,res,next)=>{
 })
 //app listen
 
-app.listen(port, () => {
-    connectDB(process.env.MONGO_URI);
-    sequelize.sync().then(()=>{
-        console.log('Sql database connected and Synced');
+
+sequelize.sync()
+    .then(() => {
+        logger.info('SQL Database connected and synced.');
+        app.listen(port, () => {
+            connectDB(process.env.MONGO_URI);
+            logger.info(`Server running on port ${port}`);
+        });
     })
-    // logger.info("Sql & MongoDB connection established");
-    logger.log({
-        level: 'info',
-        message: "Sql & MongoDB connection established"
-      });
-    logger.info("Server is running on port ="+port);
-    console.log(`Server is running on port ${port}`);
-})
+    .catch(err => {
+        logger.error('Error syncing SQL database:', err.message);
+        console.log("Error syncing SQL", err.message);
+    });
 
 module.exports = app;
