@@ -5,7 +5,7 @@
   "type": "commonjs",
   "scripts": {
     "test": "jest",
-    "server": "nodemon app.js"
+    "server": "node app.js"
   },
   "keywords": [],
   "author": "",
