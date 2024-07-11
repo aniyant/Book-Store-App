@@ -38,7 +38,7 @@ app.use((err,req,res,next)=>{
 //app listen
 
 app.listen(port, () => {
-    console.log("MONGOURI: ",process.env.MONGO_URI)
+    // console.log("MONGOURI: ",process.env.MONGO_URI)
     connectDB(process.env.MONGO_URI);
     console.log("SQLDB: ",process.env.SQL_DB)
     sequelize.sync()
