@@ -39,6 +39,7 @@ app.use((err,req,res,next)=>{
 
 app.listen(port, () => {
     connectDB(process.env.MONGO_URI);
+    console.log("SQLDB: ",process.env.SQL_DB)
     sequelize.sync()
     .then(() => {
         logger.info('SQL Database connected and synced.');
