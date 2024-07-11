@@ -37,18 +37,17 @@ app.use((err,req,res,next)=>{
 })
 //app listen
 
-
-sequelize.sync()
+app.listen(port, () => {
+    connectDB(process.env.MONGO_URI);
+    sequelize.sync()
     .then(() => {
         logger.info('SQL Database connected and synced.');
-        app.listen(port, () => {
-            connectDB(process.env.MONGO_URI);
-            logger.info(`Server running on port ${port}`);
-        });
     })
     .catch(err => {
         logger.error('Error syncing SQL database:', err.message);
         console.log("Error syncing SQL", err.message);
     });
+    logger.info(`Server running on port ${port}`);
+});
 
 module.exports = app;
