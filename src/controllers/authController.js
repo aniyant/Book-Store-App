@@ -17,7 +17,7 @@ exports.register = async (req, res) => {
         // Hash the password
         const hashedPassword = await bcrypt.hash(password, 10);
         const customer = await Customer.create({name,email,password:hashedPassword,role});
-        res.status(201).json({ customer,message:"user registered successfully." });
+        return res.status(201).json({ customer,message:"user registered successfully." });
     }
     catch (err) {
         return res.status(500).json({ message:"error in register",error: err.message });
@@ -36,7 +36,7 @@ exports.login = async (req, res) => {
         if(!isMatch) return res.status(400).send("Invalid credentials");
 
         //token
-        const token = jwt.sign({name:customer.name,email:customer.email,role:customer.role}, process.env.JWT_SECRET, {expiresIn: '1h'});
+        const token = await jwt.sign({name:customer.name,email:customer.email,role:customer.role}, process.env.JWT_SECRET, {expiresIn: '24h'});
         
         return res.status(200).json({token});
     }

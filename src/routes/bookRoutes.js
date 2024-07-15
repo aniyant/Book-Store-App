@@ -10,9 +10,54 @@ const bookRouter = express.Router();
  *   get:
  *     summary: Get all books
  *     tags: [Books]
+ *     parameters:
+ *       - in: query
+ *         name: page
+ *         required: false
+ *         description: Page number for pagination
+ *         schema:
+ *           type: integer
+ *       - in: query
+ *         name: limit
+ *         required: false
+ *         description: Number of books to return per page
+ *         schema:
+ *           type: integer
+ *       - in: query
+ *         name: title
+ *         required: false
+ *         description: Filter books by title
+ *         schema:
+ *           type: string
+ *       - in: query
+ *         name: author
+ *         required: false
+ *         description: Filter books by author
+ *         schema:
+ *           type: string
+ *       - in: query
+ *         name: genre
+ *         required: false
+ *         description: Filter books by genre
+ *         schema:
+ *           type: string
+ *       - in: query
+ *         name: sortBy
+ *         required: false
+ *         description: Field to sort books by (e.g., title, author)
+ *         schema:
+ *           type: string
+ *       - in: query
+ *         name: sortOrder
+ *         required: false
+ *         description: Order of sorting (asc or desc)
+ *         schema:
+ *           type: string
  *     responses:
  *       200:
- *         description: List of all books
+ *         description: A list of books
+ *       500:
+ *         description: Error fetching books
  */
 bookRouter.get('/', authenticate, getAllBooks);
 

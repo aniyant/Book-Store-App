@@ -1,0 +1,795 @@
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 17:19:37"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 17:19:37"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 17:19:41"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 17:19:41"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 17:20:32"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 17:20:32"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 17:21:37"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 17:21:37"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 17:22:13"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 17:22:13"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 17:22:27"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 17:22:27"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 17:22:32"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 17:22:32"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 17:22:39"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 17:22:39"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 17:22:48"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 17:22:48"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 17:23:10"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 17:23:10"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 17:23:30"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 17:23:30"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 17:23:33"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 17:23:33"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 17:23:39"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 17:23:41"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 17:23:41"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 17:23:44"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 17:23:44"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 17:24:00"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 17:24:00"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 17:24:06"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 17:24:06"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 17:24:34"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 17:24:34"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 17:24:51"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 17:24:51"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 17:25:00"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 17:25:00"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 17:25:22"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 17:25:23"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faa2dd9bcfc40c27a93cf","timestamp":"2024-07-15 17:25:23"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca28fda98c1a40ec2b90","timestamp":"2024-07-15 17:25:23"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca46fda98c1a40ec2b93","timestamp":"2024-07-15 17:25:23"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca5bfda98c1a40ec2b95","timestamp":"2024-07-15 17:25:23"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faa2dd9bcfc40c27a93cf","timestamp":"2024-07-15 17:25:23"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca5bfda98c1a40ec2b95","timestamp":"2024-07-15 17:25:23"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca46fda98c1a40ec2b93","timestamp":"2024-07-15 17:25:23"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca28fda98c1a40ec2b90","timestamp":"2024-07-15 17:25:23"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 17:25:42"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 17:25:42"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca28fda98c1a40ec2b90","timestamp":"2024-07-15 17:25:42"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca46fda98c1a40ec2b93","timestamp":"2024-07-15 17:25:42"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faa2dd9bcfc40c27a93cf","timestamp":"2024-07-15 17:25:42"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca5bfda98c1a40ec2b95","timestamp":"2024-07-15 17:25:42"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca28fda98c1a40ec2b90","timestamp":"2024-07-15 17:25:42"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca46fda98c1a40ec2b93","timestamp":"2024-07-15 17:25:42"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faa2dd9bcfc40c27a93cf","timestamp":"2024-07-15 17:25:42"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca5bfda98c1a40ec2b95","timestamp":"2024-07-15 17:25:42"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 17:25:45"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 17:25:45"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca28fda98c1a40ec2b90","timestamp":"2024-07-15 17:25:45"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca46fda98c1a40ec2b93","timestamp":"2024-07-15 17:25:45"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca5bfda98c1a40ec2b95","timestamp":"2024-07-15 17:25:45"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faa2dd9bcfc40c27a93cf","timestamp":"2024-07-15 17:25:45"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca28fda98c1a40ec2b90","timestamp":"2024-07-15 17:25:45"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca46fda98c1a40ec2b93","timestamp":"2024-07-15 17:25:45"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca5bfda98c1a40ec2b95","timestamp":"2024-07-15 17:25:45"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faa2dd9bcfc40c27a93cf","timestamp":"2024-07-15 17:25:45"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=2&limit=4","timestamp":"2024-07-15 17:25:47"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faa31d9bcfc40c27a93d1","timestamp":"2024-07-15 17:25:47"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668fabfa356e83e32c185edc","timestamp":"2024-07-15 17:25:47"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faf2abc7a731811b3bec7","timestamp":"2024-07-15 17:25:47"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668ffa382a089c4f970e22ae","timestamp":"2024-07-15 17:25:47"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 17:29:10"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 17:29:10"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 17:30:03"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 17:30:03"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 17:41:43"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 17:41:43"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 17:49:04"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 17:49:04"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 17:49:11"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 17:49:11"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 17:49:37"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 17:49:37"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 17:49:51"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 17:49:51"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 17:50:01"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 17:50:01"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 17:50:05"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 17:50:05"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 17:50:13"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 17:50:13"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 17:52:53"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 17:52:53"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 17:53:05"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 17:53:05"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 17:53:13"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 17:53:13"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 17:53:51"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 17:53:51"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 17:54:05"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 17:54:06"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 17:54:38"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 17:54:38"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 17:54:45"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 17:54:45"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 17:54:56"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 17:54:56"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 17:55:03"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 17:55:03"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 17:55:33"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 17:55:33"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 17:55:45"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 17:55:45"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 18:14:40"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 18:14:41"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 18:16:09"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 18:16:09"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 18:16:13"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 18:16:13"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 18:16:23"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 18:16:23"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 18:16:36"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 18:16:36"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 18:17:01"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 18:17:01"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 18:17:04"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 18:17:04"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 18:18:46"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 18:18:46"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 18:19:21"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 18:19:21"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 18:20:45"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 18:20:45"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 18:21:23"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 18:21:23"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 18:21:35"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 18:21:35"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 18:24:05"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 18:24:05"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 18:30:50"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 18:30:50"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /auth/login","timestamp":"2024-07-15 18:31:27"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 18:31:28"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 18:31:28"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca28fda98c1a40ec2b90","timestamp":"2024-07-15 18:31:28"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faa2dd9bcfc40c27a93cf","timestamp":"2024-07-15 18:31:28"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca46fda98c1a40ec2b93","timestamp":"2024-07-15 18:31:28"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca5bfda98c1a40ec2b95","timestamp":"2024-07-15 18:31:28"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca28fda98c1a40ec2b90","timestamp":"2024-07-15 18:31:28"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca5bfda98c1a40ec2b95","timestamp":"2024-07-15 18:31:28"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faa2dd9bcfc40c27a93cf","timestamp":"2024-07-15 18:31:28"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca46fda98c1a40ec2b93","timestamp":"2024-07-15 18:31:28"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=2&limit=4","timestamp":"2024-07-15 18:31:35"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faa31d9bcfc40c27a93d1","timestamp":"2024-07-15 18:31:35"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668fabfa356e83e32c185edc","timestamp":"2024-07-15 18:31:35"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668ffa382a089c4f970e22ae","timestamp":"2024-07-15 18:31:35"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faf2abc7a731811b3bec7","timestamp":"2024-07-15 18:31:35"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 18:31:47"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 18:31:47"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca28fda98c1a40ec2b90","timestamp":"2024-07-15 18:31:47"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca46fda98c1a40ec2b93","timestamp":"2024-07-15 18:31:47"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca5bfda98c1a40ec2b95","timestamp":"2024-07-15 18:31:47"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faa2dd9bcfc40c27a93cf","timestamp":"2024-07-15 18:31:47"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca28fda98c1a40ec2b90","timestamp":"2024-07-15 18:31:47"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca46fda98c1a40ec2b93","timestamp":"2024-07-15 18:31:47"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca5bfda98c1a40ec2b95","timestamp":"2024-07-15 18:31:47"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faa2dd9bcfc40c27a93cf","timestamp":"2024-07-15 18:31:48"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 18:31:51"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 18:31:51"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca28fda98c1a40ec2b90","timestamp":"2024-07-15 18:31:51"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca46fda98c1a40ec2b93","timestamp":"2024-07-15 18:31:51"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca5bfda98c1a40ec2b95","timestamp":"2024-07-15 18:31:51"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faa2dd9bcfc40c27a93cf","timestamp":"2024-07-15 18:31:51"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca28fda98c1a40ec2b90","timestamp":"2024-07-15 18:31:51"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca46fda98c1a40ec2b93","timestamp":"2024-07-15 18:31:51"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca5bfda98c1a40ec2b95","timestamp":"2024-07-15 18:31:51"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faa2dd9bcfc40c27a93cf","timestamp":"2024-07-15 18:31:51"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=2&limit=4","timestamp":"2024-07-15 18:32:36"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faa31d9bcfc40c27a93d1","timestamp":"2024-07-15 18:32:36"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668fabfa356e83e32c185edc","timestamp":"2024-07-15 18:32:36"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faf2abc7a731811b3bec7","timestamp":"2024-07-15 18:32:36"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668ffa382a089c4f970e22ae","timestamp":"2024-07-15 18:32:36"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /orders","timestamp":"2024-07-15 18:32:55"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /orders","timestamp":"2024-07-15 18:32:58"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /orders","timestamp":"2024-07-15 18:33:07"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 18:34:46"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 18:34:46"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 18:34:55"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 18:34:55"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /orders","timestamp":"2024-07-15 18:34:56"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /orders","timestamp":"2024-07-15 18:35:10"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /orders","timestamp":"2024-07-15 18:35:34"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /orders","timestamp":"2024-07-15 18:35:35"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /orders","timestamp":"2024-07-15 18:36:05"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 18:39:40"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 18:39:40"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 18:39:55"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 18:39:55"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /api-docs/swagger-ui.css","timestamp":"2024-07-15 18:44:06"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /api-docs/swagger-ui-bundle.js","timestamp":"2024-07-15 18:44:06"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /api-docs/swagger-ui-standalone-preset.js","timestamp":"2024-07-15 18:44:06"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /api-docs/swagger-ui-init.js","timestamp":"2024-07-15 18:44:06"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /api-docs/favicon-32x32.png","timestamp":"2024-07-15 18:44:07"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 18:46:55"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 18:46:55"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 18:52:02"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 18:52:02"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 18:52:08"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 18:52:08"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 18:52:13"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 18:52:13"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /auth/login","timestamp":"2024-07-15 18:52:37"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 18:52:38"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 18:52:38"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca28fda98c1a40ec2b90","timestamp":"2024-07-15 18:52:38"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca46fda98c1a40ec2b93","timestamp":"2024-07-15 18:52:38"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca5bfda98c1a40ec2b95","timestamp":"2024-07-15 18:52:38"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faa2dd9bcfc40c27a93cf","timestamp":"2024-07-15 18:52:38"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca28fda98c1a40ec2b90","timestamp":"2024-07-15 18:52:38"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faa2dd9bcfc40c27a93cf","timestamp":"2024-07-15 18:52:38"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca5bfda98c1a40ec2b95","timestamp":"2024-07-15 18:52:38"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca46fda98c1a40ec2b93","timestamp":"2024-07-15 18:52:38"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 18:53:34"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 18:53:35"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=2&limit=4","timestamp":"2024-07-15 18:53:48"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faa31d9bcfc40c27a93d1","timestamp":"2024-07-15 18:53:48"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668fabfa356e83e32c185edc","timestamp":"2024-07-15 18:53:48"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faf2abc7a731811b3bec7","timestamp":"2024-07-15 18:53:48"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668ffa382a089c4f970e22ae","timestamp":"2024-07-15 18:53:48"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=3&limit=4","timestamp":"2024-07-15 18:53:50"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668ffa3d2a089c4f970e22b0","timestamp":"2024-07-15 18:53:50"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668ffa3e2a089c4f970e22b2","timestamp":"2024-07-15 18:53:50"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=2&limit=4","timestamp":"2024-07-15 18:54:06"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faa31d9bcfc40c27a93d1","timestamp":"2024-07-15 18:54:06"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668fabfa356e83e32c185edc","timestamp":"2024-07-15 18:54:06"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faf2abc7a731811b3bec7","timestamp":"2024-07-15 18:54:06"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668ffa382a089c4f970e22ae","timestamp":"2024-07-15 18:54:06"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faf2abc7a731811b3bec7","timestamp":"2024-07-15 18:54:06"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668ffa382a089c4f970e22ae","timestamp":"2024-07-15 18:54:06"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 18:54:07"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca28fda98c1a40ec2b90","timestamp":"2024-07-15 18:54:07"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca46fda98c1a40ec2b93","timestamp":"2024-07-15 18:54:07"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca5bfda98c1a40ec2b95","timestamp":"2024-07-15 18:54:07"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faa2dd9bcfc40c27a93cf","timestamp":"2024-07-15 18:54:07"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 18:54:13"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 18:54:13"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca28fda98c1a40ec2b90","timestamp":"2024-07-15 18:54:13"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca5bfda98c1a40ec2b95","timestamp":"2024-07-15 18:54:13"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca46fda98c1a40ec2b93","timestamp":"2024-07-15 18:54:13"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faa2dd9bcfc40c27a93cf","timestamp":"2024-07-15 18:54:13"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca28fda98c1a40ec2b90","timestamp":"2024-07-15 18:54:13"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca5bfda98c1a40ec2b95","timestamp":"2024-07-15 18:54:13"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca46fda98c1a40ec2b93","timestamp":"2024-07-15 18:54:13"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faa2dd9bcfc40c27a93cf","timestamp":"2024-07-15 18:54:14"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /orders","timestamp":"2024-07-15 18:54:24"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /orders","timestamp":"2024-07-15 18:54:26"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /orders","timestamp":"2024-07-15 18:54:38"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /orders","timestamp":"2024-07-15 18:54:50"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /orders","timestamp":"2024-07-15 18:56:19"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /orders","timestamp":"2024-07-15 18:56:21"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /orders","timestamp":"2024-07-15 18:56:21"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /orders","timestamp":"2024-07-15 18:56:21"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /orders","timestamp":"2024-07-15 18:56:22"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /orders","timestamp":"2024-07-15 18:56:22"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 18:58:41"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 18:58:41"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 18:58:52"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 18:58:52"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 18:58:57"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 18:58:57"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 18:59:18"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 18:59:18"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /orders","timestamp":"2024-07-15 18:59:20"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 19:00:13"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 19:00:13"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /auth/login","timestamp":"2024-07-15 19:00:45"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 19:00:45"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 19:00:46"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca28fda98c1a40ec2b90","timestamp":"2024-07-15 19:00:46"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca46fda98c1a40ec2b93","timestamp":"2024-07-15 19:00:46"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca5bfda98c1a40ec2b95","timestamp":"2024-07-15 19:00:46"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faa2dd9bcfc40c27a93cf","timestamp":"2024-07-15 19:00:46"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca28fda98c1a40ec2b90","timestamp":"2024-07-15 19:00:46"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faa2dd9bcfc40c27a93cf","timestamp":"2024-07-15 19:00:46"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca5bfda98c1a40ec2b95","timestamp":"2024-07-15 19:00:46"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca46fda98c1a40ec2b93","timestamp":"2024-07-15 19:00:46"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /orders","timestamp":"2024-07-15 19:00:56"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 19:01:34"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 19:01:34"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /auth/login","timestamp":"2024-07-15 19:01:59"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 19:01:59"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 19:01:59"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca28fda98c1a40ec2b90","timestamp":"2024-07-15 19:02:00"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca46fda98c1a40ec2b93","timestamp":"2024-07-15 19:02:00"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca5bfda98c1a40ec2b95","timestamp":"2024-07-15 19:02:00"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faa2dd9bcfc40c27a93cf","timestamp":"2024-07-15 19:02:00"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca28fda98c1a40ec2b90","timestamp":"2024-07-15 19:02:00"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faa2dd9bcfc40c27a93cf","timestamp":"2024-07-15 19:02:00"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca46fda98c1a40ec2b93","timestamp":"2024-07-15 19:02:00"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca5bfda98c1a40ec2b95","timestamp":"2024-07-15 19:02:00"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=2&limit=4","timestamp":"2024-07-15 19:02:03"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668fabfa356e83e32c185edc","timestamp":"2024-07-15 19:02:03"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faa31d9bcfc40c27a93d1","timestamp":"2024-07-15 19:02:03"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faf2abc7a731811b3bec7","timestamp":"2024-07-15 19:02:03"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668ffa382a089c4f970e22ae","timestamp":"2024-07-15 19:02:03"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /orders","timestamp":"2024-07-15 19:02:16"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 19:02:20"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 19:02:20"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca28fda98c1a40ec2b90","timestamp":"2024-07-15 19:02:20"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca46fda98c1a40ec2b93","timestamp":"2024-07-15 19:02:20"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faa2dd9bcfc40c27a93cf","timestamp":"2024-07-15 19:02:20"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca5bfda98c1a40ec2b95","timestamp":"2024-07-15 19:02:20"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca28fda98c1a40ec2b90","timestamp":"2024-07-15 19:02:20"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca46fda98c1a40ec2b93","timestamp":"2024-07-15 19:02:20"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faa2dd9bcfc40c27a93cf","timestamp":"2024-07-15 19:02:20"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca5bfda98c1a40ec2b95","timestamp":"2024-07-15 19:02:20"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /books","timestamp":"2024-07-15 19:06:56"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /books","timestamp":"2024-07-15 19:07:34"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /auth/login","timestamp":"2024-07-15 19:07:40"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /books","timestamp":"2024-07-15 19:08:11"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /books","timestamp":"2024-07-15 19:09:18"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 19:15:51"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 19:15:51"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /books","timestamp":"2024-07-15 19:15:53"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 19:18:27"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 19:18:27"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 19:18:31"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 19:18:31"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /books","timestamp":"2024-07-15 19:19:43"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 19:26:50"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 19:26:50"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 19:27:06"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 19:27:06"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 19:27:17"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 19:27:17"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 19:27:51"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 19:27:51"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /books","timestamp":"2024-07-15 19:27:55"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 19:31:55"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 19:31:55"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /books","timestamp":"2024-07-15 19:31:56"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /books","timestamp":"2024-07-15 19:31:59"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /books","timestamp":"2024-07-15 19:32:00"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /books","timestamp":"2024-07-15 19:32:01"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /books","timestamp":"2024-07-15 19:32:01"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /books","timestamp":"2024-07-15 19:32:01"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /books","timestamp":"2024-07-15 19:32:01"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /books","timestamp":"2024-07-15 19:32:02"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /books","timestamp":"2024-07-15 19:32:02"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /books","timestamp":"2024-07-15 19:32:02"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /books","timestamp":"2024-07-15 19:32:02"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /books","timestamp":"2024-07-15 19:32:02"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /books","timestamp":"2024-07-15 19:32:03"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /books","timestamp":"2024-07-15 19:32:03"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 19:34:43"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 19:34:43"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 19:34:50"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 19:34:50"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 19:34:59"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 19:34:59"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /books","timestamp":"2024-07-15 19:35:06"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 19:36:25"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 19:36:25"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 19:37:01"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 19:37:01"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 19:44:47"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 19:44:47"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 19:44:56"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 19:44:56"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /books","timestamp":"2024-07-15 19:45:00"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /books","timestamp":"2024-07-15 19:45:02"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /books","timestamp":"2024-07-15 19:45:03"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 19:48:15"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 19:48:15"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books","timestamp":"2024-07-15 19:48:41"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books/page=5","timestamp":"2024-07-15 19:49:02"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=5","timestamp":"2024-07-15 19:49:08"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 19:54:03"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 19:54:03"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 19:54:14"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 19:54:14"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 19:54:29"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 19:54:29"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=5","timestamp":"2024-07-15 19:54:30"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 19:54:52"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 19:54:52"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /books","timestamp":"2024-07-15 19:54:57"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 20:00:50"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 20:00:50"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 20:00:54"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 20:00:54"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /books","timestamp":"2024-07-15 20:01:00"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 20:03:32"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 20:03:32"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /auth/login","timestamp":"2024-07-15 20:03:55"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 20:03:56"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 20:03:56"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca28fda98c1a40ec2b90","timestamp":"2024-07-15 20:03:56"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca46fda98c1a40ec2b93","timestamp":"2024-07-15 20:03:56"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca5bfda98c1a40ec2b95","timestamp":"2024-07-15 20:03:56"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faa2dd9bcfc40c27a93cf","timestamp":"2024-07-15 20:03:56"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca28fda98c1a40ec2b90","timestamp":"2024-07-15 20:03:56"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faa2dd9bcfc40c27a93cf","timestamp":"2024-07-15 20:03:56"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca46fda98c1a40ec2b93","timestamp":"2024-07-15 20:03:56"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca5bfda98c1a40ec2b95","timestamp":"2024-07-15 20:03:56"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /orders","timestamp":"2024-07-15 20:04:21"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 20:05:17"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 20:05:17"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca28fda98c1a40ec2b90","timestamp":"2024-07-15 20:05:17"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca46fda98c1a40ec2b93","timestamp":"2024-07-15 20:05:17"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca5bfda98c1a40ec2b95","timestamp":"2024-07-15 20:05:17"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faa2dd9bcfc40c27a93cf","timestamp":"2024-07-15 20:05:17"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca28fda98c1a40ec2b90","timestamp":"2024-07-15 20:05:17"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca46fda98c1a40ec2b93","timestamp":"2024-07-15 20:05:17"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca5bfda98c1a40ec2b95","timestamp":"2024-07-15 20:05:17"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faa2dd9bcfc40c27a93cf","timestamp":"2024-07-15 20:05:18"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 20:05:20"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 20:05:20"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca28fda98c1a40ec2b90","timestamp":"2024-07-15 20:05:20"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca46fda98c1a40ec2b93","timestamp":"2024-07-15 20:05:20"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca5bfda98c1a40ec2b95","timestamp":"2024-07-15 20:05:20"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faa2dd9bcfc40c27a93cf","timestamp":"2024-07-15 20:05:20"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca28fda98c1a40ec2b90","timestamp":"2024-07-15 20:05:20"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca46fda98c1a40ec2b93","timestamp":"2024-07-15 20:05:20"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca5bfda98c1a40ec2b95","timestamp":"2024-07-15 20:05:21"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faa2dd9bcfc40c27a93cf","timestamp":"2024-07-15 20:05:21"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 20:07:26"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 20:07:27"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca28fda98c1a40ec2b90","timestamp":"2024-07-15 20:07:27"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca46fda98c1a40ec2b93","timestamp":"2024-07-15 20:07:27"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca5bfda98c1a40ec2b95","timestamp":"2024-07-15 20:07:27"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faa2dd9bcfc40c27a93cf","timestamp":"2024-07-15 20:07:27"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca28fda98c1a40ec2b90","timestamp":"2024-07-15 20:07:27"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca46fda98c1a40ec2b93","timestamp":"2024-07-15 20:07:27"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca5bfda98c1a40ec2b95","timestamp":"2024-07-15 20:07:27"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faa2dd9bcfc40c27a93cf","timestamp":"2024-07-15 20:07:27"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 20:07:32"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 20:07:32"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca28fda98c1a40ec2b90","timestamp":"2024-07-15 20:07:32"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca46fda98c1a40ec2b93","timestamp":"2024-07-15 20:07:32"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca5bfda98c1a40ec2b95","timestamp":"2024-07-15 20:07:32"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faa2dd9bcfc40c27a93cf","timestamp":"2024-07-15 20:07:32"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca28fda98c1a40ec2b90","timestamp":"2024-07-15 20:07:32"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca46fda98c1a40ec2b93","timestamp":"2024-07-15 20:07:32"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca5bfda98c1a40ec2b95","timestamp":"2024-07-15 20:07:32"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faa2dd9bcfc40c27a93cf","timestamp":"2024-07-15 20:07:32"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 20:07:34"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 20:07:35"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca28fda98c1a40ec2b90","timestamp":"2024-07-15 20:07:35"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca46fda98c1a40ec2b93","timestamp":"2024-07-15 20:07:35"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca5bfda98c1a40ec2b95","timestamp":"2024-07-15 20:07:35"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faa2dd9bcfc40c27a93cf","timestamp":"2024-07-15 20:07:35"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca28fda98c1a40ec2b90","timestamp":"2024-07-15 20:07:35"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca46fda98c1a40ec2b93","timestamp":"2024-07-15 20:07:35"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca5bfda98c1a40ec2b95","timestamp":"2024-07-15 20:07:35"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faa2dd9bcfc40c27a93cf","timestamp":"2024-07-15 20:07:35"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 20:07:35"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 20:07:36"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca28fda98c1a40ec2b90","timestamp":"2024-07-15 20:07:36"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca46fda98c1a40ec2b93","timestamp":"2024-07-15 20:07:36"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca5bfda98c1a40ec2b95","timestamp":"2024-07-15 20:07:36"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faa2dd9bcfc40c27a93cf","timestamp":"2024-07-15 20:07:36"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca28fda98c1a40ec2b90","timestamp":"2024-07-15 20:07:36"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca46fda98c1a40ec2b93","timestamp":"2024-07-15 20:07:36"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca5bfda98c1a40ec2b95","timestamp":"2024-07-15 20:07:36"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faa2dd9bcfc40c27a93cf","timestamp":"2024-07-15 20:07:36"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /auth/login","timestamp":"2024-07-15 20:10:38"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 20:10:38"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 20:10:38"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca28fda98c1a40ec2b90","timestamp":"2024-07-15 20:10:38"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca46fda98c1a40ec2b93","timestamp":"2024-07-15 20:10:38"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca5bfda98c1a40ec2b95","timestamp":"2024-07-15 20:10:38"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faa2dd9bcfc40c27a93cf","timestamp":"2024-07-15 20:10:38"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca28fda98c1a40ec2b90","timestamp":"2024-07-15 20:10:38"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca46fda98c1a40ec2b93","timestamp":"2024-07-15 20:10:39"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca5bfda98c1a40ec2b95","timestamp":"2024-07-15 20:10:39"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faa2dd9bcfc40c27a93cf","timestamp":"2024-07-15 20:10:39"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /orders","timestamp":"2024-07-15 20:10:48"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 20:23:32"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 20:23:32"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 20:23:36"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 20:23:36"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 20:23:45"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 20:23:45"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /auth/login","timestamp":"2024-07-15 20:24:26"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /auth/login","timestamp":"2024-07-15 20:24:45"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /auth/login","timestamp":"2024-07-15 20:25:19"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /auth/login","timestamp":"2024-07-15 20:25:26"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 20:25:26"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 20:25:26"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca28fda98c1a40ec2b90","timestamp":"2024-07-15 20:25:26"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca46fda98c1a40ec2b93","timestamp":"2024-07-15 20:25:26"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca5bfda98c1a40ec2b95","timestamp":"2024-07-15 20:25:26"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faa2dd9bcfc40c27a93cf","timestamp":"2024-07-15 20:25:26"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca28fda98c1a40ec2b90","timestamp":"2024-07-15 20:25:26"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faa2dd9bcfc40c27a93cf","timestamp":"2024-07-15 20:25:26"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca46fda98c1a40ec2b93","timestamp":"2024-07-15 20:25:27"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca5bfda98c1a40ec2b95","timestamp":"2024-07-15 20:25:27"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /orders","timestamp":"2024-07-15 20:25:42"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 20:26:47"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 20:26:47"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca28fda98c1a40ec2b90","timestamp":"2024-07-15 20:26:47"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca46fda98c1a40ec2b93","timestamp":"2024-07-15 20:26:47"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca5bfda98c1a40ec2b95","timestamp":"2024-07-15 20:26:47"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faa2dd9bcfc40c27a93cf","timestamp":"2024-07-15 20:26:47"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca28fda98c1a40ec2b90","timestamp":"2024-07-15 20:26:47"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca46fda98c1a40ec2b93","timestamp":"2024-07-15 20:26:47"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca5bfda98c1a40ec2b95","timestamp":"2024-07-15 20:26:47"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faa2dd9bcfc40c27a93cf","timestamp":"2024-07-15 20:26:48"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /orders","timestamp":"2024-07-15 20:26:56"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 20:28:00"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 20:28:00"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca28fda98c1a40ec2b90","timestamp":"2024-07-15 20:28:01"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faa2dd9bcfc40c27a93cf","timestamp":"2024-07-15 20:28:01"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca46fda98c1a40ec2b93","timestamp":"2024-07-15 20:28:01"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca5bfda98c1a40ec2b95","timestamp":"2024-07-15 20:28:01"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca28fda98c1a40ec2b90","timestamp":"2024-07-15 20:28:01"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faa2dd9bcfc40c27a93cf","timestamp":"2024-07-15 20:28:01"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca46fda98c1a40ec2b93","timestamp":"2024-07-15 20:28:01"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca5bfda98c1a40ec2b95","timestamp":"2024-07-15 20:28:01"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /orders","timestamp":"2024-07-15 20:28:13"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 20:29:38"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 20:29:38"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca28fda98c1a40ec2b90","timestamp":"2024-07-15 20:29:38"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca46fda98c1a40ec2b93","timestamp":"2024-07-15 20:29:38"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faa2dd9bcfc40c27a93cf","timestamp":"2024-07-15 20:29:38"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca5bfda98c1a40ec2b95","timestamp":"2024-07-15 20:29:38"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca28fda98c1a40ec2b90","timestamp":"2024-07-15 20:29:38"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca46fda98c1a40ec2b93","timestamp":"2024-07-15 20:29:38"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faa2dd9bcfc40c27a93cf","timestamp":"2024-07-15 20:29:38"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca5bfda98c1a40ec2b95","timestamp":"2024-07-15 20:29:38"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /orders","timestamp":"2024-07-15 20:29:51"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 20:32:29"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 20:32:29"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca28fda98c1a40ec2b90","timestamp":"2024-07-15 20:32:29"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faa2dd9bcfc40c27a93cf","timestamp":"2024-07-15 20:32:29"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca46fda98c1a40ec2b93","timestamp":"2024-07-15 20:32:29"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca5bfda98c1a40ec2b95","timestamp":"2024-07-15 20:32:29"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca28fda98c1a40ec2b90","timestamp":"2024-07-15 20:32:29"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faa2dd9bcfc40c27a93cf","timestamp":"2024-07-15 20:32:29"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca46fda98c1a40ec2b93","timestamp":"2024-07-15 20:32:29"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca5bfda98c1a40ec2b95","timestamp":"2024-07-15 20:32:29"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /orders","timestamp":"2024-07-15 20:32:38"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /reviews/669532a4d64f7274533a1def","timestamp":"2024-07-15 20:33:41"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/669532a4d64f7274533a1def","timestamp":"2024-07-15 20:33:46"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/669532a4d64f7274533a1def","timestamp":"2024-07-15 20:33:55"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 20:35:05"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 20:35:05"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 20:35:09"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 20:35:09"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca28fda98c1a40ec2b90","timestamp":"2024-07-15 20:35:09"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca46fda98c1a40ec2b93","timestamp":"2024-07-15 20:35:09"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca5bfda98c1a40ec2b95","timestamp":"2024-07-15 20:35:09"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faa2dd9bcfc40c27a93cf","timestamp":"2024-07-15 20:35:09"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca28fda98c1a40ec2b90","timestamp":"2024-07-15 20:35:09"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca46fda98c1a40ec2b93","timestamp":"2024-07-15 20:35:09"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca5bfda98c1a40ec2b95","timestamp":"2024-07-15 20:35:10"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faa2dd9bcfc40c27a93cf","timestamp":"2024-07-15 20:35:10"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /auth/login","timestamp":"2024-07-15 20:35:41"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 20:35:42"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 20:35:42"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca28fda98c1a40ec2b90","timestamp":"2024-07-15 20:35:42"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca46fda98c1a40ec2b93","timestamp":"2024-07-15 20:35:42"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faa2dd9bcfc40c27a93cf","timestamp":"2024-07-15 20:35:42"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca5bfda98c1a40ec2b95","timestamp":"2024-07-15 20:35:42"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca28fda98c1a40ec2b90","timestamp":"2024-07-15 20:35:42"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca46fda98c1a40ec2b93","timestamp":"2024-07-15 20:35:42"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faa2dd9bcfc40c27a93cf","timestamp":"2024-07-15 20:35:42"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca5bfda98c1a40ec2b95","timestamp":"2024-07-15 20:35:43"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/669532a4d64f7274533a1def","timestamp":"2024-07-15 20:36:09"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 20:36:45"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 20:36:45"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /auth/login","timestamp":"2024-07-15 20:37:23"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 20:37:23"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 20:37:23"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca28fda98c1a40ec2b90","timestamp":"2024-07-15 20:37:23"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca46fda98c1a40ec2b93","timestamp":"2024-07-15 20:37:23"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca5bfda98c1a40ec2b95","timestamp":"2024-07-15 20:37:24"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faa2dd9bcfc40c27a93cf","timestamp":"2024-07-15 20:37:24"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca28fda98c1a40ec2b90","timestamp":"2024-07-15 20:37:24"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faa2dd9bcfc40c27a93cf","timestamp":"2024-07-15 20:37:24"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca46fda98c1a40ec2b93","timestamp":"2024-07-15 20:37:24"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca5bfda98c1a40ec2b95","timestamp":"2024-07-15 20:37:24"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 20:38:39"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 20:38:57"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca28fda98c1a40ec2b90","timestamp":"2024-07-15 20:39:28"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca46fda98c1a40ec2b93","timestamp":"2024-07-15 20:39:28"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca5bfda98c1a40ec2b95","timestamp":"2024-07-15 20:39:28"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faa2dd9bcfc40c27a93cf","timestamp":"2024-07-15 20:39:28"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /auth/login","timestamp":"2024-07-15 20:39:49"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 20:39:50"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 20:39:50"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca28fda98c1a40ec2b90","timestamp":"2024-07-15 20:39:50"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca5bfda98c1a40ec2b95","timestamp":"2024-07-15 20:39:50"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca46fda98c1a40ec2b93","timestamp":"2024-07-15 20:39:50"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faa2dd9bcfc40c27a93cf","timestamp":"2024-07-15 20:39:50"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca28fda98c1a40ec2b90","timestamp":"2024-07-15 20:39:50"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca5bfda98c1a40ec2b95","timestamp":"2024-07-15 20:39:50"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca46fda98c1a40ec2b93","timestamp":"2024-07-15 20:39:50"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faa2dd9bcfc40c27a93cf","timestamp":"2024-07-15 20:39:50"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 20:41:51"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 20:41:57"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 20:41:59"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 20:42:12"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 20:42:25"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 20:42:25"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca28fda98c1a40ec2b90","timestamp":"2024-07-15 20:42:25"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca46fda98c1a40ec2b93","timestamp":"2024-07-15 20:42:25"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faa2dd9bcfc40c27a93cf","timestamp":"2024-07-15 20:42:25"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca5bfda98c1a40ec2b95","timestamp":"2024-07-15 20:42:25"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca28fda98c1a40ec2b90","timestamp":"2024-07-15 20:42:25"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca46fda98c1a40ec2b93","timestamp":"2024-07-15 20:42:25"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faa2dd9bcfc40c27a93cf","timestamp":"2024-07-15 20:42:25"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca5bfda98c1a40ec2b95","timestamp":"2024-07-15 20:42:25"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /auth/login","timestamp":"2024-07-15 20:42:53"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 20:42:53"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 20:42:53"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca28fda98c1a40ec2b90","timestamp":"2024-07-15 20:42:53"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca5bfda98c1a40ec2b95","timestamp":"2024-07-15 20:42:53"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca46fda98c1a40ec2b93","timestamp":"2024-07-15 20:42:53"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faa2dd9bcfc40c27a93cf","timestamp":"2024-07-15 20:42:53"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca28fda98c1a40ec2b90","timestamp":"2024-07-15 20:42:53"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca5bfda98c1a40ec2b95","timestamp":"2024-07-15 20:42:53"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca46fda98c1a40ec2b93","timestamp":"2024-07-15 20:42:53"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faa2dd9bcfc40c27a93cf","timestamp":"2024-07-15 20:42:53"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 20:43:08"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /orders","timestamp":"2024-07-15 20:44:25"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 20:44:49"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 20:44:49"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca28fda98c1a40ec2b90","timestamp":"2024-07-15 20:44:49"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca5bfda98c1a40ec2b95","timestamp":"2024-07-15 20:44:49"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca46fda98c1a40ec2b93","timestamp":"2024-07-15 20:44:49"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faa2dd9bcfc40c27a93cf","timestamp":"2024-07-15 20:44:49"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca28fda98c1a40ec2b90","timestamp":"2024-07-15 20:44:49"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca5bfda98c1a40ec2b95","timestamp":"2024-07-15 20:44:49"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faa2dd9bcfc40c27a93cf","timestamp":"2024-07-15 20:44:49"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca46fda98c1a40ec2b93","timestamp":"2024-07-15 20:44:49"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 20:46:10"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 20:46:10"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 20:46:24"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 20:46:24"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /auth/login","timestamp":"2024-07-15 20:47:07"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 20:47:07"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 20:47:07"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca28fda98c1a40ec2b90","timestamp":"2024-07-15 20:47:07"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca46fda98c1a40ec2b93","timestamp":"2024-07-15 20:47:07"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca5bfda98c1a40ec2b95","timestamp":"2024-07-15 20:47:07"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faa2dd9bcfc40c27a93cf","timestamp":"2024-07-15 20:47:07"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca28fda98c1a40ec2b90","timestamp":"2024-07-15 20:47:07"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faa2dd9bcfc40c27a93cf","timestamp":"2024-07-15 20:47:07"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca5bfda98c1a40ec2b95","timestamp":"2024-07-15 20:47:08"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca46fda98c1a40ec2b93","timestamp":"2024-07-15 20:47:08"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /orders","timestamp":"2024-07-15 20:47:17"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 20:48:44"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 20:48:44"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 20:48:51"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 20:48:51"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 20:48:56"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 20:48:56"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sql & MongoDB connection established","timestamp":"2024-07-15 20:49:11"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port =3000","timestamp":"2024-07-15 20:49:11"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 20:49:11"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 20:49:12"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca28fda98c1a40ec2b90","timestamp":"2024-07-15 20:49:12"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca46fda98c1a40ec2b93","timestamp":"2024-07-15 20:49:12"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca5bfda98c1a40ec2b95","timestamp":"2024-07-15 20:49:12"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faa2dd9bcfc40c27a93cf","timestamp":"2024-07-15 20:49:12"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca28fda98c1a40ec2b90","timestamp":"2024-07-15 20:49:12"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca46fda98c1a40ec2b93","timestamp":"2024-07-15 20:49:12"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca5bfda98c1a40ec2b95","timestamp":"2024-07-15 20:49:12"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faa2dd9bcfc40c27a93cf","timestamp":"2024-07-15 20:49:12"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /orders","timestamp":"2024-07-15 20:49:29"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 20:50:09"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 20:50:09"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca28fda98c1a40ec2b90","timestamp":"2024-07-15 20:50:09"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca46fda98c1a40ec2b93","timestamp":"2024-07-15 20:50:09"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca5bfda98c1a40ec2b95","timestamp":"2024-07-15 20:50:09"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faa2dd9bcfc40c27a93cf","timestamp":"2024-07-15 20:50:09"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca28fda98c1a40ec2b90","timestamp":"2024-07-15 20:50:09"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca46fda98c1a40ec2b93","timestamp":"2024-07-15 20:50:09"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca5bfda98c1a40ec2b95","timestamp":"2024-07-15 20:50:09"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faa2dd9bcfc40c27a93cf","timestamp":"2024-07-15 20:50:09"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 20:50:31"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 20:50:31"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca28fda98c1a40ec2b90","timestamp":"2024-07-15 20:50:31"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca46fda98c1a40ec2b93","timestamp":"2024-07-15 20:50:31"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca5bfda98c1a40ec2b95","timestamp":"2024-07-15 20:50:31"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faa2dd9bcfc40c27a93cf","timestamp":"2024-07-15 20:50:31"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca28fda98c1a40ec2b90","timestamp":"2024-07-15 20:50:31"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca46fda98c1a40ec2b93","timestamp":"2024-07-15 20:50:31"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca5bfda98c1a40ec2b95","timestamp":"2024-07-15 20:50:31"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faa2dd9bcfc40c27a93cf","timestamp":"2024-07-15 20:50:31"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /orders","timestamp":"2024-07-15 20:50:39"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 20:50:49"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 20:50:49"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca28fda98c1a40ec2b90","timestamp":"2024-07-15 20:50:49"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca46fda98c1a40ec2b93","timestamp":"2024-07-15 20:50:49"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca5bfda98c1a40ec2b95","timestamp":"2024-07-15 20:50:49"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faa2dd9bcfc40c27a93cf","timestamp":"2024-07-15 20:50:49"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca28fda98c1a40ec2b90","timestamp":"2024-07-15 20:50:49"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca46fda98c1a40ec2b93","timestamp":"2024-07-15 20:50:49"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca5bfda98c1a40ec2b95","timestamp":"2024-07-15 20:50:49"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faa2dd9bcfc40c27a93cf","timestamp":"2024-07-15 20:50:49"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /auth/login","timestamp":"2024-07-15 20:51:03"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 20:51:04"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 20:51:04"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca28fda98c1a40ec2b90","timestamp":"2024-07-15 20:51:04"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca46fda98c1a40ec2b93","timestamp":"2024-07-15 20:51:04"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca5bfda98c1a40ec2b95","timestamp":"2024-07-15 20:51:04"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faa2dd9bcfc40c27a93cf","timestamp":"2024-07-15 20:51:04"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca28fda98c1a40ec2b90","timestamp":"2024-07-15 20:51:04"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca46fda98c1a40ec2b93","timestamp":"2024-07-15 20:51:04"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca5bfda98c1a40ec2b95","timestamp":"2024-07-15 20:51:04"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faa2dd9bcfc40c27a93cf","timestamp":"2024-07-15 20:51:04"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /orders","timestamp":"2024-07-15 20:51:14"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 20:51:23"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 20:51:23"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca28fda98c1a40ec2b90","timestamp":"2024-07-15 20:51:23"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca46fda98c1a40ec2b93","timestamp":"2024-07-15 20:51:23"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca5bfda98c1a40ec2b95","timestamp":"2024-07-15 20:51:23"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faa2dd9bcfc40c27a93cf","timestamp":"2024-07-15 20:51:23"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca28fda98c1a40ec2b90","timestamp":"2024-07-15 20:51:23"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca46fda98c1a40ec2b93","timestamp":"2024-07-15 20:51:24"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca5bfda98c1a40ec2b95","timestamp":"2024-07-15 20:51:24"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faa2dd9bcfc40c27a93cf","timestamp":"2024-07-15 20:51:24"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 20:51:45"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 20:51:45"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca28fda98c1a40ec2b90","timestamp":"2024-07-15 20:51:46"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca46fda98c1a40ec2b93","timestamp":"2024-07-15 20:51:46"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca5bfda98c1a40ec2b95","timestamp":"2024-07-15 20:51:46"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faa2dd9bcfc40c27a93cf","timestamp":"2024-07-15 20:51:46"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca28fda98c1a40ec2b90","timestamp":"2024-07-15 20:51:46"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca46fda98c1a40ec2b93","timestamp":"2024-07-15 20:51:46"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca5bfda98c1a40ec2b95","timestamp":"2024-07-15 20:51:46"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faa2dd9bcfc40c27a93cf","timestamp":"2024-07-15 20:51:46"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 20:52:35"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 20:52:35"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca28fda98c1a40ec2b90","timestamp":"2024-07-15 20:52:36"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca46fda98c1a40ec2b93","timestamp":"2024-07-15 20:52:36"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca5bfda98c1a40ec2b95","timestamp":"2024-07-15 20:52:36"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faa2dd9bcfc40c27a93cf","timestamp":"2024-07-15 20:52:36"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca28fda98c1a40ec2b90","timestamp":"2024-07-15 20:52:36"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca46fda98c1a40ec2b93","timestamp":"2024-07-15 20:52:36"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca5bfda98c1a40ec2b95","timestamp":"2024-07-15 20:52:36"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faa2dd9bcfc40c27a93cf","timestamp":"2024-07-15 20:52:36"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /auth/login","timestamp":"2024-07-15 20:52:53"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 20:52:54"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 20:52:54"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca28fda98c1a40ec2b90","timestamp":"2024-07-15 20:52:54"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca5bfda98c1a40ec2b95","timestamp":"2024-07-15 20:52:54"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca46fda98c1a40ec2b93","timestamp":"2024-07-15 20:52:54"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faa2dd9bcfc40c27a93cf","timestamp":"2024-07-15 20:52:54"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca28fda98c1a40ec2b90","timestamp":"2024-07-15 20:52:54"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca5bfda98c1a40ec2b95","timestamp":"2024-07-15 20:52:54"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca46fda98c1a40ec2b93","timestamp":"2024-07-15 20:52:54"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faa2dd9bcfc40c27a93cf","timestamp":"2024-07-15 20:52:54"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /orders","timestamp":"2024-07-15 20:53:03"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 20:53:15"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 20:53:15"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca28fda98c1a40ec2b90","timestamp":"2024-07-15 20:53:15"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca5bfda98c1a40ec2b95","timestamp":"2024-07-15 20:53:15"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca46fda98c1a40ec2b93","timestamp":"2024-07-15 20:53:15"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faa2dd9bcfc40c27a93cf","timestamp":"2024-07-15 20:53:15"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca5bfda98c1a40ec2b95","timestamp":"2024-07-15 20:53:15"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca28fda98c1a40ec2b90","timestamp":"2024-07-15 20:53:15"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca46fda98c1a40ec2b93","timestamp":"2024-07-15 20:53:15"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faa2dd9bcfc40c27a93cf","timestamp":"2024-07-15 20:53:15"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /orders","timestamp":"2024-07-15 20:53:24"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /auth/login","timestamp":"2024-07-15 20:54:05"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 20:54:06"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca28fda98c1a40ec2b90","timestamp":"2024-07-15 20:54:06"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca46fda98c1a40ec2b93","timestamp":"2024-07-15 20:54:06"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca5bfda98c1a40ec2b95","timestamp":"2024-07-15 20:54:06"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faa2dd9bcfc40c27a93cf","timestamp":"2024-07-15 20:54:06"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /orders","timestamp":"2024-07-15 20:54:17"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 20:54:27"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca28fda98c1a40ec2b90","timestamp":"2024-07-15 20:54:27"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca5bfda98c1a40ec2b95","timestamp":"2024-07-15 20:54:27"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca46fda98c1a40ec2b93","timestamp":"2024-07-15 20:54:27"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faa2dd9bcfc40c27a93cf","timestamp":"2024-07-15 20:54:27"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=2&limit=4","timestamp":"2024-07-15 20:54:31"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faa31d9bcfc40c27a93d1","timestamp":"2024-07-15 20:54:31"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668fabfa356e83e32c185edc","timestamp":"2024-07-15 20:54:31"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faf2abc7a731811b3bec7","timestamp":"2024-07-15 20:54:31"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668ffa382a089c4f970e22ae","timestamp":"2024-07-15 20:54:31"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /orders","timestamp":"2024-07-15 20:54:38"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /books","timestamp":"2024-07-15 20:55:25"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /books?page=1&limit=4","timestamp":"2024-07-15 20:56:34"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca28fda98c1a40ec2b90","timestamp":"2024-07-15 20:56:34"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca46fda98c1a40ec2b93","timestamp":"2024-07-15 20:56:34"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668bca5bfda98c1a40ec2b95","timestamp":"2024-07-15 20:56:34"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET /reviews/book/668faa2dd9bcfc40c27a93cf","timestamp":"2024-07-15 20:56:34"}

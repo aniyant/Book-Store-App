@@ -20,7 +20,7 @@ const orderRouter = express.Router();
  *       200:
  *         description: List of all orders for the customer
  */
-orderRouter.get('/customer/:customerId', authenticate, authorize(['admin', 'manager']), getOrdersByCustomer);
+orderRouter.get('/customer/:customerId', authenticate, getOrdersByCustomer);
 
 /**
  * @swagger
@@ -52,6 +52,6 @@ orderRouter.get('/customer/:customerId', authenticate, authorize(['admin', 'mana
  *       201:
  *         description: Order created successfully
  */
-orderRouter.post('/', authenticate, authorize(['customer']), createOrder);
+orderRouter.post('/', authenticate, createOrder);
 
 module.exports = orderRouter;

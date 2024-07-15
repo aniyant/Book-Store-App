@@ -16,7 +16,7 @@ const OrderItem = sequelize.define('OrderItems',{
         }
     },
     bookId: {
-        type: DataTypes.INTEGER,
+        type: DataTypes.STRING,
         allowNull:false
     },
     quantity: {
